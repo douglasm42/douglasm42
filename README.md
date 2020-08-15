@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I'm Douglas
+
+I love videogames 🎮, metal 🤘, classic music 🎻 and building stuff 🏗.
+
+My first line of code was written in Ruby using RPG Maker XP and since then I'm in love with software development.
+I journeyed from Ruby, to DarkBasic, to C++(College), to Java (First Job), to Ruby on Rails, back to Java and finaly back to Rails again.
+In the middle of all that I learned a lot of stuff, mainly web development tec and SQL.
+
+I'm currently learning React and TDD with Rails.
 
 <!--
 **douglasm42/douglasm42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

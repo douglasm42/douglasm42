@@ -8,7 +8,7 @@ In the middle of all that I learned a lot of stuff, mainly web development tec a
 
 I'm currently learning React and TDD with Rails.
 
-#### Links
+#### Userful Links
 
 - [The Ruby Style Guide](https://rubystyle.guide/)
 - [The Rails Style Guide](https://rails.rubystyle.guide/)

@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Douglas
 
-I love videogames 🎮, metal 🤘, classic music 🎻 and building stuff 🏗.
+I love videogames 🎮, metal 🤘, cats 🐈‍⬛ and building stuff 🏗.
 
 My first line of code was written in Ruby using RPG Maker XP and since then I'm in love with software development.
 I journeyed from Ruby, to DarkBasic, to C++(College), to Java (First Job), to Ruby on Rails, back to Java and finaly back to Rails again.

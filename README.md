@@ -3,10 +3,8 @@
 I love videogames 🎮, metal 🤘, cats 🐈‍⬛ and building stuff 🏗.
 
 My first line of code was written in Ruby using RPG Maker XP and since then I'm in love with software development.
-I journeyed from Ruby, to DarkBasic, to C++(College), to Java (First Job), to Ruby on Rails, back to Java and finaly back to Rails again.
+From Ruby I went to DarkBasic, to C++(College), to Java (First Job) and then to Ruby on Rails.
 In the middle of all that I learned a lot of stuff, mainly web development tec and SQL.
-
-I'm currently learning React and TDD with Rails.
 
 #### Userful Links
 

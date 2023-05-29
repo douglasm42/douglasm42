@@ -10,5 +10,6 @@ In the middle of all that I learned a lot of stuff, mainly web development tec a
 
 - [The Ruby Style Guide](https://rubystyle.guide/)
 - [The Rails Style Guide](https://rails.rubystyle.guide/)
+- [The RSpec Style Guide](https://rspec.rubystyle.guide/)
 - [Better Specs](http://www.betterspecs.org/)
 - [Design Patterns](https://refactoring.guru/design-patterns)
